@@ -32,12 +32,11 @@
         <li><a href="ex2.php">Task 02</a></li>
         <li><a href="ex3.php">Task 03</a></li>
         <li><a href="ex4.php">Task 04</a></li>
-        <li><a href="ex1.php">Task 05</a></li>
-        <li><a href="ex1.php">Task 06</a></li>
-        <li><a href="ex1.php">Task 07</a></li>
+        <li><a href="../crud_app/index.php">Task 07</a></li>
       </ul>
     </div>
   </div>
 </nav>
     </header>
+
 
